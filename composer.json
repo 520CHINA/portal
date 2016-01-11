@@ -1,0 +1,16 @@
+{
+	"description": "Portal perm",
+	"name": "madmin_perm",
+	"type": "project",
+	"homepage": "http://jange.zxy",
+	"license": "MIT",
+	"support": {
+		"source": "https://github.com/520CHINA/portal"
+	},
+	"require": {
+		"php": ">=5.2.4"
+	},
+	"require-dev": {
+		"520CHINA/portal":"*"
+	}
+}
