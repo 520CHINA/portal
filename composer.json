@@ -1,16 +1,23 @@
 {
 	"description": "Portal perm",
 	"name": "jange/portal",
-	"type": "project",
 	"homepage": "http://jange.zxy",
 	"license": "MIT",
+    "keywords": ["log", "logging", "psr-3"],
+    "type": "library",
 	"support": {
 		"source": "https://github.com/520CHINA/portal"
 	},
-	"require": {
-		"php": ">=5.2.4"
-	},
-	"require-dev": {
-		"520CHINA/portal":"*"
-	}
+    "authors": [
+        {
+            "name": "Jange.Zhang",
+            "email": "jange.zhang@gmail.com",
+            "homepage": "http://jange.zxy"
+        }
+    ],
+    "require": {
+        "php": ">=5.2.4"
+    },
+    "autoload": {
+    }
 }
